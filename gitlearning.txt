@@ -8,3 +8,6 @@ Commands
 clone
 pull 
 push
+
+status
+merge
